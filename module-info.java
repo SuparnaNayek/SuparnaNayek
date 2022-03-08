@@ -1,2 +1,2 @@
-module Monday6 {
+module Pattern {
 }
