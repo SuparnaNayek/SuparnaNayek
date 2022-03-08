@@ -1,2 +1,2 @@
-module Assignment8 {
+module Monday6 {
 }
