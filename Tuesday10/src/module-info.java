@@ -1,0 +1,2 @@
+module Tuesday10 {
+}
