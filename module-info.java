@@ -1,2 +1,2 @@
-module Pattern {
+module Wednesday1 {
 }
