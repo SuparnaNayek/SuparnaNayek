@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+#text2{
+       font-weight: bolder;
+        }
+
+        .bgGreen{
+            background-color: green !important;
+            height: 40px;
+                }
+                .smallWidth{
+                    width: 20px;
+                    background-color: pink;
+                 }
